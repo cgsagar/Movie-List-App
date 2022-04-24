@@ -5,7 +5,7 @@ This is a movie listing app to add new movies. The movie can be searched from th
 
 # 🛠️ Tech Stack
 
-- 💻 JavaScript | ES6 | ES7 | HTML | CSS
+- 💻 JavaScript | ES6 | HTML | CSS
 - 🌐 React JS | Redux
 - 🔧 Git
 
