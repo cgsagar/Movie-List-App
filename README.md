@@ -1,6 +1,6 @@
 # MOVIE-APP
 
-This is a movie listing app to add new movies. The movie can be searched from the list and the movies can be ordered name wise or rank wise. This was built using React and Redux and localstorage was used to store the data.
+This is a movie listing app to add new movies. Movie can be searched from the list and the movies can be ordered name wise or rank wise. This was built using React and Redux and localstorage was used to store the data.
 
 
 # 🛠️ Tech Stack
