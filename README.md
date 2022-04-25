@@ -15,7 +15,7 @@ This is a movie listing app to add new movies. The movie can be searched from th
 - bootstrap icons
 
 # Demo
-For Live Demo, Please click here: <a href="https://graceful-tulumba-ec2351.netlify.app/" target="_blank">DEMO</a>
+For Live Demo, Please click here: <a href="https://my-new-movie-app.netlify.app/" target="_blank">DEMO</a>
 
 # Features
 
